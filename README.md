@@ -20,6 +20,7 @@
 
  </div>
  
+ <br/>
 
 <h2 align="left">⚒️ My Main Programing/Markup Languages ⚒️</h2>
 
@@ -127,6 +128,15 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/azerazerty/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 ###
 
