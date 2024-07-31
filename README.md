@@ -1,14 +1,25 @@
-<h2 align="center">Hi 👋! I'm Wahid</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=azerazerty.azerazerty" />
 
-###
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wahid!;" />
+</h1>
 
-<h1 align="left">About Me:</h1>
+<h3 align="center">A full-stack Web developer from Algeria</h3>
 
-###
+<br/>
 
-<p align="left">I'm full-stack Web developer from Algeria<br><br><br>🔭 I’m currently working on Khdemni (my Startup)<br><br>🌱 I’m currently learning DevOps</p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **Khdemni (my Startup)**
+ 
+ 🌱 I’m currently learning **DevOps**
 
-###
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/azerazerty/azerazerty/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
 
 <h2 align="left">⚒️ My Main Programing/Markup Languages ⚒️</h2>
 
