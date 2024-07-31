@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">🐍 My Best Frameworks and my main libraries 🐍</h2>
+<h2 align="left">👨‍💻 My Best Frameworks and my main libraries 👨‍💻</h2>
 
 ###
 
@@ -110,7 +110,7 @@
 
 ###
 
-<h2 align="left">Social Media :</h2>
+<h2 align="left">📫 Social Media 📫</h2>
 
 ###
 
