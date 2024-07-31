@@ -1,4 +1,4 @@
-<div align="center>
+<div align="right">
     ![visitors](https://visitor-badge.laobi.icu/badge?page_id=azerazerty.azerazerty)
 </div>
 <h1 align="center">
